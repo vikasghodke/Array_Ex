@@ -1,0 +1,13 @@
+D:\C#\Arrray_Ex_2\Arrray_Ex_2\bin\Debug\netcoreapp3.1\Arrray_Ex_2.exe
+D:\C#\Arrray_Ex_2\Arrray_Ex_2\bin\Debug\netcoreapp3.1\Arrray_Ex_2.deps.json
+D:\C#\Arrray_Ex_2\Arrray_Ex_2\bin\Debug\netcoreapp3.1\Arrray_Ex_2.runtimeconfig.json
+D:\C#\Arrray_Ex_2\Arrray_Ex_2\bin\Debug\netcoreapp3.1\Arrray_Ex_2.runtimeconfig.dev.json
+D:\C#\Arrray_Ex_2\Arrray_Ex_2\bin\Debug\netcoreapp3.1\Arrray_Ex_2.dll
+D:\C#\Arrray_Ex_2\Arrray_Ex_2\bin\Debug\netcoreapp3.1\Arrray_Ex_2.pdb
+D:\C#\Arrray_Ex_2\Arrray_Ex_2\obj\Debug\netcoreapp3.1\Arrray_Ex_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Arrray_Ex_2\Arrray_Ex_2\obj\Debug\netcoreapp3.1\Arrray_Ex_2.AssemblyInfoInputs.cache
+D:\C#\Arrray_Ex_2\Arrray_Ex_2\obj\Debug\netcoreapp3.1\Arrray_Ex_2.AssemblyInfo.cs
+D:\C#\Arrray_Ex_2\Arrray_Ex_2\obj\Debug\netcoreapp3.1\Arrray_Ex_2.csproj.CoreCompileInputs.cache
+D:\C#\Arrray_Ex_2\Arrray_Ex_2\obj\Debug\netcoreapp3.1\Arrray_Ex_2.dll
+D:\C#\Arrray_Ex_2\Arrray_Ex_2\obj\Debug\netcoreapp3.1\Arrray_Ex_2.pdb
+D:\C#\Arrray_Ex_2\Arrray_Ex_2\obj\Debug\netcoreapp3.1\Arrray_Ex_2.genruntimeconfig.cache
