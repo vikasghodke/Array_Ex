@@ -1,0 +1,13 @@
+D:\C#\Array_Ex_4\Array_Ex_4\bin\Debug\netcoreapp3.1\Array_Ex_4.exe
+D:\C#\Array_Ex_4\Array_Ex_4\bin\Debug\netcoreapp3.1\Array_Ex_4.deps.json
+D:\C#\Array_Ex_4\Array_Ex_4\bin\Debug\netcoreapp3.1\Array_Ex_4.runtimeconfig.json
+D:\C#\Array_Ex_4\Array_Ex_4\bin\Debug\netcoreapp3.1\Array_Ex_4.runtimeconfig.dev.json
+D:\C#\Array_Ex_4\Array_Ex_4\bin\Debug\netcoreapp3.1\Array_Ex_4.dll
+D:\C#\Array_Ex_4\Array_Ex_4\bin\Debug\netcoreapp3.1\Array_Ex_4.pdb
+D:\C#\Array_Ex_4\Array_Ex_4\obj\Debug\netcoreapp3.1\Array_Ex_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Array_Ex_4\Array_Ex_4\obj\Debug\netcoreapp3.1\Array_Ex_4.AssemblyInfoInputs.cache
+D:\C#\Array_Ex_4\Array_Ex_4\obj\Debug\netcoreapp3.1\Array_Ex_4.AssemblyInfo.cs
+D:\C#\Array_Ex_4\Array_Ex_4\obj\Debug\netcoreapp3.1\Array_Ex_4.csproj.CoreCompileInputs.cache
+D:\C#\Array_Ex_4\Array_Ex_4\obj\Debug\netcoreapp3.1\Array_Ex_4.dll
+D:\C#\Array_Ex_4\Array_Ex_4\obj\Debug\netcoreapp3.1\Array_Ex_4.pdb
+D:\C#\Array_Ex_4\Array_Ex_4\obj\Debug\netcoreapp3.1\Array_Ex_4.genruntimeconfig.cache
